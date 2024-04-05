@@ -4,6 +4,8 @@ Builder.
 
 Currently working on applied artificial intelligence and blockchain.
 
+> You can support any of my projects through [GitHub Sponsors](https://github.com/sponsors/srslafazan)
+
 - 📫 Schedule an [intro](https://calendly.com/shain-lafazan/intro)
 - 👀 I’m looking for blockchain LP's [(check out the dex)](https://calendly.com/shain-vtmm/30min)
 - 👀 I’m looking for help with [tokenomics](https://calendly.com/shain-lafazan/intro) and [marketing](https://calendly.com/shain-lafazan/intro)
