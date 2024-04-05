@@ -13,4 +13,4 @@ Currently working on applied artificial intelligence and blockchain.
 - 🤝 I’m looking to collaborate on open source projects
 
 #
-If you'd like to 💬 discuss any sort of opportunity, feel free to [contact me](mailto:shain.codes@gmail.com).
+If you'd like to 💬 discuss any sort of opportunity, feel free to [📬 contact me](mailto:shain.codes@gmail.com).
