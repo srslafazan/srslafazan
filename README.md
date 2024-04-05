@@ -1,16 +1,13 @@
-### Hi there 👋
+# Shain Lafazan 👋
 
-<!--
-**srslafazan/srslafazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Builder.
 
-Here are some ideas to get you started:
+Currently working on applied artificial intelligence and blockchain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with tokenomics and dex marketing
+- 🌱 I’m currently learning about zk proofs
+- 🤝 I’m looking to collaborate on open source projects
+- 📫 Schedule an [intro](https://shainlafazan.com)
+
+#
+If you'd like to 💬 discuss any sort of opportunity, feel free to [contact me](mailto:shain.codes@gmail.com).
