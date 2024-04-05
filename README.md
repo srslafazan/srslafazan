@@ -5,7 +5,7 @@ Builder.
 Currently working on applied artificial intelligence and blockchain.
 
 - 📫 Schedule an [intro](https://calendly.com/shain-lafazan/intro)
-- 🤔 I’m looking for blockchain LP's ([check out the dex](mailto:shain@titans.finance))
+- 🤔 I’m looking for blockchain LP's [(check out the dex)](https://calendly.com/shain-vtmm/30min)
 - 🤔 I’m looking for help with [tokenomics](https://calendly.com/shain-lafazan/intro) and [dex marketing](https://calendly.com/shain-lafazan/intro)
 - 🌱 I’m currently learning about zk proofs
 - 🤝 I’m looking to collaborate on open source projects
