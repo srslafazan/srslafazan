@@ -1,8 +1,6 @@
 # [Shain Lafazan](https://shainlafazan.com) 👋
 
-Builder.
-
-Currently working on applied artificial intelligence and blockchain.
+Building applied artificial intelligence and blockchain products.
 
 > You can support any of my projects through [GitHub Sponsors](https://github.com/sponsors/srslafazan).
 
